@@ -1,0 +1,86 @@
+.overflow{
+    overflow: hidden;
+}
+.carousel-img{
+    height: 30em;
+    width:  100%;
+}
+.sam11{
+    color: black;
+    text-shadow: 5px 0px 0px yellow;
+}
+
+/* for foorer section */
+.footer{
+    padding-top: 1px;
+    background-color: black;
+    /* margin-bottom: 1rem; */
+}
+
+.company{
+    display: flex;
+    justify-content: space-between;
+}
+.footer1{
+    color: white;
+    text-decoration: none;
+}
+.footer-img{
+    height: 40px;
+    width: 40px;
+    border-radius: 5rem;
+    margin-right: 0.5rem;
+}
+.footer-img:hover{
+    border: 2px solid black;
+}
+.part1{
+    display: flex;
+    justify-content: space-between;
+    background-color: black;
+    margin-bottom: 2rem;
+    
+}
+
+.tools{
+    color: #c0c0c0;
+}
+.tools:hover{
+    color: white;
+}
+.autoe{
+    color: #c0c0c0;
+}
+.autoe:hover{
+    color: white;
+}
+.research{
+    color: #c0c0c0;
+}
+.research:hover{
+    color: white;
+}
+/* play store */
+.playstore:hover{
+    border: 2px solid rgb(245, 26, 26);
+}
+
+/* for bottom  */
+.bottom-1{
+    display: flex;
+    flex-direction: row;
+    background-color: black;
+    
+}
+.bottom-2{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2rem;
+}
+.bottom-items{
+    text-decoration: none;
+    color: #c0c0c0;
+}
+.hrtag{
+    margin: -1.75px;
+}

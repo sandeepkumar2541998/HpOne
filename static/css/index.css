@@ -1,0 +1,58 @@
+.nav-2{
+    border: 3px solid red;
+    /* height: 5em; */
+}
+.img11{
+    height: 12em;
+    width: 20em;
+    padding: 0.5em;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.recom-1{
+    display: flex;
+    justify-items: auto;
+    justify-content: space-between;
+    align-content: center;
+    flex-direction: row;
+    flex-wrap: wrap;   
+}
+.recom-11{
+    display: flex;
+    flex-direction: column;
+    margin: 0.5em;
+    padding: 0.5em;
+    border: 2px solid green;
+}
+
+/* for .nav-3 */
+.nav-3{
+    border: 3px solid green;
+}
+.sellcar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/* for nav-4 */
+.nav-4{
+    border: 3px solid rgb(69, 42, 187);
+}
+
+/* carbrands */
+.carbrands{
+    display: flex;
+}
+
+
+.caritems{
+    text-align: center;
+    text-decoration: none;
+}
+
+/* for more popular bikes in India (new bikes in India) */
+#morepopularbikes{
+    display: flex;
+    justify-content: center;
+}
